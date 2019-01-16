@@ -1,0 +1,29 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:501e16ca-f45c-4a0c-9a9f-8a270a9f2ed6</distributor>
+  <operatorURL>http://rps2images.ebscohost.com/fulfillment</operatorURL>
+  <transaction>s8997389:10710870:562926:1547598929162:238686469</transaction>
+  <expiration>2019-01-16T01:35:29-05:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:0da9f6c9-74da-4cda-8d2e-875881b4c5df</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Fog of War</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Blight, James G.,Lang, janet M.</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Rowman &amp; Littlefield Publishing Group, Inc.</dc:publisher>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:0da9f6c9-74da-4cda-8d2e-875881b4c5df</resource>
+      <permissions>
+        <display>
+          <until>2019-02-05T19:35:29-05:00</until>
+        </display>
+        <play>
+          <until>2019-02-05T19:35:29-05:00</until>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>3Tomd+JVGrpj0mWORQ0K4EeA41c=</hmac>
+</fulfillmentToken>
